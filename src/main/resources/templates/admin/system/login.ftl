@@ -43,7 +43,7 @@
 }
 </style>
 </head>
-  
+
 <body>
 <div class="row lyear-wrapper">
   <div class="lyear-login">
@@ -76,7 +76,7 @@
       </form>
       <hr>
       <footer class="col-sm-12 text-center">
-        <p class="m-b-0">Copyright © 2020 <a href="${siteUrl!""}">【猿来入此】</a>. All right reserved</p>
+        <p class="m-b-0">Copyright © 2020 <a href="${siteUrl!""}">在线网盘系统</a>. All right reserved</p>
       </footer>
     </div>
   </div>
